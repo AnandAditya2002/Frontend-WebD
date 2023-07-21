@@ -13,10 +13,6 @@
     height: 594px;
     padding: 6px 84px;
 }
-/* #home::before{
-    height: 410px;
-    
-} */
 #home p{
     font-size: 12px;
 }
@@ -24,13 +20,10 @@
 #services{
     flex-direction: column;
 }
-/* #services .box{
-    
-} */
+
 /* clients section */
 #clients{
     flex-wrap: wrap;
-    /* height: 500px; */
 }
 .client-item img{
     width: 128px;
