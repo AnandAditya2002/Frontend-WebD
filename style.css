@@ -19,7 +19,6 @@
    top: 0px;
    overflow: hidden;
    z-index: 1;
-   /* justify-content: center;     */ 
 }
 #navbar ul{
    display: flex;
@@ -30,13 +29,12 @@
    content : "";
    background-color: rgb(162 153 109);
    position: absolute;
-   /* margin: 0px 0px; */
    height: 100%;
    width: 100%;
    z-index: -1;
    opacity: 1;
 }
-#navabar ul li{
+#navbar ul li{
    font-size: 1.4rem;
 }
 #navbar ul li a{
@@ -64,7 +62,6 @@
    content : "";
    background: url('https://static.vecteezy.com/system/resources/previews/007/041/731/large_2x/scandi-boho-interior-design-with-wood-furniture-poster-frame-mockup-in-purple-living-room-background-3d-render-illustration-nordic-style-photo.jpg') no-repeat center center/cover;
    position: absolute;
-   /* margin: 0px 0px; */
    height: 100%;
    width: 100%;
    z-index: -1;
@@ -103,7 +100,6 @@
 }
 /* Client Section */
 #client-section{
-   /* height: 1500px; */
    position: relative;
 
 }
@@ -131,7 +127,6 @@
 /* contact section */
 #contact{
    position: relative;
-
 }
 #contact::before{
    content: "";
